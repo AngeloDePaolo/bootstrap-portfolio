@@ -1,0 +1,9 @@
+body {
+    background: url(../images/dynamic-style.png);
+    background-size: cover;
+}
+
+h6 {
+    font-size: 20px;
+    color: #44aa85;
+}
