@@ -9,15 +9,17 @@ h6 {
 }
 
 .carousel-caption{
-    background-color: rgba(0,128,128,0.6);
+    background:rgba(0,0,0,0.6);
+    opacity: 0.75;
     padding: 0;
     right: 0;
     left: 0;
     bottom: unset;
-    top: 50%;
+    top: 175%;
     text-emphasis: bold;
-    color: #ffffff;
+    color: #44aa85;
 }
+
 
 a {
     position: relative;
